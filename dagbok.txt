@@ -1,0 +1,14 @@
+27.11.23
+
+Í dag kom hópurinn saman og allir fengu að kynnast. Það var full mæting í dag. 
+Við lásum verkefnalýsinguna og skiptum niður verkum. 
+Skipulögðum hönnunarskýrsluna og hvernig hún mun vera sett upp hjá okkur.
+Markmiðin okkar fyrir daginn í dag eru eftirfarandi: 
+Byrja á hönnunarskýrslu
+Setja upp github handbók
+Skila inn dagbók á github
+
+
+Skýrsla í lok dags:
+
+Við kláruðum notendahópa greininguna. Erum komin af stað með git handbókina. 
