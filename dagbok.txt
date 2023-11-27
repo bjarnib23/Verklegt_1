@@ -8,7 +8,6 @@ Byrja á hönnunarskýrslu
 Setja upp github handbók
 Skila inn dagbók á github
 
-
 Skýrsla í lok dags:
-
 Við kláruðum notendahópa greininguna. Erum komin af stað með git handbókina. 
+
