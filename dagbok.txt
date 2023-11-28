@@ -20,4 +20,13 @@ Planið fyrir daginn:
 - klára use cases
 - klára kröfulistann
 
+Skýrsla í lok dags:
+Dagurinn í dag gekk mjög vel. 
+Allir unnu vel og verkefnunum var vel skipt niður og allir kláruðu sinn hlut.
+
+Við kláruðum git handbókina. 
+Einnig kláruðum við class diagramið og use casein.
+Kröfulistinn var kláraður
+Þar að auki byrjuðum við á útlitshönnuninni (wireframe)
+Skrifuðum einnig inngang á hönnunarskýrslunni
 
