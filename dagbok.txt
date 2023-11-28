@@ -11,3 +11,13 @@ Skila inn dagbók á github
 Skýrsla í lok dags:
 Við kláruðum notendahópa greininguna. Erum komin af stað með git handbókina. 
 
+28.11.23
+
+Í dag var full mæting.
+Planið fyrir daginn:
+- klára git handbókina 
+- klára class diagram
+- klára use cases
+- klára kröfulistann
+
+
