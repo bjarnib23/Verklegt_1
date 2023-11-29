@@ -1,0 +1,22 @@
+╔════════════════════════════════════════════════════════════╗
+║                    Register destination                    ║
+║                                                            ║
+║                                                            ║
+║   Country of destination:                                  ║
+║   input:                                                   ║
+║                                                            ║
+║   Airport destination:                                     ║
+║   input:                                                   ║
+║                                                            ║
+║   Flight duration:                                         ║
+║   input:                                                   ║
+║                                                            ║
+║   Distance from Iceland:                                   ║
+║   input:                                                   ║
+║                                                            ║
+║   Contact of destination:                                  ║
+║   input:                                                   ║
+║                                                            ║
+║   Contact's emergency number:                              ║
+║   input:                                                   ║
+╚════════════════════════════════════════════════════════════╝
