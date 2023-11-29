@@ -184,3 +184,110 @@ input Password:
 ║   Contact's emergency number:                              ║
 ║   input:                                                   ║
 ╚════════════════════════════════════════════════════════════╝
+
+
+
+╔═══════════════════════════════════════════════════════════════╗
+║                    Welcome to the Menu!                       ║
+║                  Please select an option:                     ║
+║                                                               ║
+║      Name:                                                    ║
+║                                                               ║
+║                                                               ║
+║      Social Security Number:                                  ║
+║                                                               ║
+║                                                               ║
+║      Home Address:                                            ║
+║                                                               ║
+║                                                               ║
+║      Mobile Phone Number:                                     ║
+║                                                               ║
+║                                                               ║
+║      Home Phone Number(optionl):                              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Name:
+
+╔═══════════════════════════════════════════════════════════════╗
+║                    Welcome to the Menu!                       ║
+║                  Please select an option:                     ║
+║                                                               ║
+║      Name: Jóna Gunnarsdóttir                                 ║
+║                                                               ║
+║                                                               ║
+║      Social Security Number:                                  ║
+║                                                               ║
+║                                                               ║
+║      Home Address:                                            ║
+║                                                               ║
+║                                                               ║
+║      Mobile Phone Number:                                     ║
+║                                                               ║
+║                                                               ║
+║      Home Phone Number(optionl):                              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Social Security Number:
+
+╔═══════════════════════════════════════════════════════════════╗
+║                    Welcome to the Menu!                       ║
+║                  Please select an option:                     ║
+║                                                               ║
+║      Name: Jóna Gunnarsdóttir                                 ║
+║                                                               ║
+║                                                               ║
+║      Social Security Number: 240475-2380                      ║
+║                                                               ║
+║                                                               ║
+║      Home Address:                                            ║
+║                                                               ║
+║                                                               ║
+║      Mobile Phone Number:                                     ║
+║                                                               ║
+║                                                               ║
+║      Home Phone Number(optionl):                              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Home Address:
+
+╔═══════════════════════════════════════════════════════════════╗
+║                    Welcome to the Menu!                       ║
+║                  Please select an option:                     ║
+║                                                               ║
+║      Name: Jóna Gunnarsdóttir                                 ║
+║                                                               ║
+║                                                               ║
+║      Social Security Number: 240475-2380                      ║
+║                                                               ║
+║                                                               ║
+║      Home Address: Klettagata 3                               ║
+║                                                               ║
+║                                                               ║
+║      Mobile Phone Number:                                     ║
+║                                                               ║
+║                                                               ║
+║      Home Phone Number(optionl):                              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Mobile Phone Number:
+
+╔═══════════════════════════════════════════════════════════════╗
+║                    Welcome to the Menu!                       ║
+║                  Please select an option:                     ║
+║                                                               ║
+║      Name: Jóna Gunnarsdóttir                                 ║
+║                                                               ║
+║                                                               ║
+║      Social Security Number: 240475-2380                      ║
+║                                                               ║
+║                                                               ║
+║      Home Address: Klettagata 3                               ║
+║                                                               ║
+║                                                               ║
+║      Mobile Phone Number: 867-5455                            ║
+║                                                               ║
+║                                                               ║
+║      Home Phone Number(optionl):                              ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Home Phone Number(optionl):
