@@ -30,3 +30,11 @@ Kröfulistinn var kláraður
 Þar að auki byrjuðum við á útlitshönnuninni (wireframe)
 Skrifuðum einnig inngang á hönnunarskýrslunni
 
+29.11.23
+
+Planið fyrir daginn í dag:
+- klára wireframe í ipad
+- setja wireframe upp í vs studios
+- halda áfram að setja upp hönnunarskýrsluna
+
+
