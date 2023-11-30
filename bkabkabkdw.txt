@@ -575,7 +575,7 @@ input date:
 ║  Enter week:                                               ║
 ║                                                            ║
 ║ Time   Date    Where to   Flight Duration    Fully staffed ║
-║                                                   YES/NO   ║                                                         ║
+║                                                   YES      ║                                                         
 ║                                                            ║
 ║                                                            ║  
 ║                                                            ║
@@ -598,7 +598,7 @@ input week:
 ║  Enter week: 3.12.23 - 9.12.23                             ║
 ║                                                            ║
 ║ Time   Date    Where to   Flight Duration    Fully staffed ║
-║                                                   YES/NO   ║                                                         ║
+║                                                   NO       ║                                                      
 ║                                                            ║
 ║                                                            ║  
 ║                                                            ║
