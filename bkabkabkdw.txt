@@ -575,7 +575,7 @@ result from search:
 ║   Home phone number: 599-6699               EDIT           ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
-input 1 (home address)
+input 1 (home address):
 
 ╔════════════════════════════════════════════════════════════╗
 ║                    Employee                                ║
@@ -600,7 +600,7 @@ input 1 (home address)
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 
-input 2 (mobile phone)
+input 2 (mobile phone):
 
 ╔════════════════════════════════════════════════════════════╗
 ║                    Employee                                ║
@@ -625,7 +625,7 @@ input 2 (mobile phone)
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 
-input 3 (home phone number)
+input 3 (home phone number):
 
 ╔════════════════════════════════════════════════════════════╗
 ║                    Employee                                ║
@@ -647,6 +647,219 @@ input 3 (home phone number)
 ║                                                            ║
 ║                                                            ║
 ║   Home phone number: 559-5890               EDIT           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from:                                          ║
+║                                                            ║
+║   Destination:                                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain:                                                 ║ 
+║   Copilot:                                                 ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser:                                                  ║
+║   Flight attendant:                                        ║
+║                                                            ║
+║   Time of flight:                                          ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input departure from:
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination:                                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain:                                                 ║
+║   Copilot:                                                 ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser                                                   ║
+║   Flight attendant:                                        ║
+║                                                            ║
+║   Time of flight:                                          ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input destination:
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination: Nuuk, Greenland                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain:                                                 ║
+║   Copilot:                                                 ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser:                                                  ║
+║   Flight attendant:                                        ║
+║                                                            ║
+║   Time of flight:                                          ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input captain:
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination: Nuuk, Greenland                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain: Jónas Sigurðsson                                ║
+║   Copilot:                                                 ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser:                                                  ║
+║   Flight attendant:                                        ║
+║                                                            ║
+║   Time of flight:                                          ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input copilot:
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination: Nuuk, Greenland                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain: Jónas Sigurðsson                                ║
+║   Copilot: Sigríður Gunnarsdóttir                          ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser:                                                  ║
+║   Flight attendant:                                        ║
+║                                                            ║
+║   Time of flight:                                          ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input purser:
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination: Nuuk, Greenland                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain: Jónas Sigurðsson                                ║
+║   Copilot: Sigríður Gunnarsdóttir                          ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser: Óttar Atli Guðnason                              ║
+║   Flight attendant:                                        ║
+║                                                            ║
+║   Time of flight:                                          ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input flight attendant:
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination: Nuuk, Greenland                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain: Jónas Sigurðsson                                ║
+║   Copilot: Sigríður Gunnarsdóttir                          ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser: Óttar Atli Guðnason                              ║
+║   Flight attendant: Kolbrún Hauksdóttir                    ║
+║                                                            ║
+║   Time of flight:                                          ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input time of flight: 
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination: Nuuk, Greenland                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain: Jónas Sigurðsson                                ║
+║   Copilot: Sigríður Gunnarsdóttir                          ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser: Óttar Atli Guðnason                              ║
+║   Flight attendant: Kolbrún Hauksdóttir                    ║
+║                                                            ║
+║   Time of flight: 6:50                                     ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance:                                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input time of attendance: 
+
+╔════════════════════════════════════════════════════════════╗
+║                    Register Voyages                        ║
+║                                                            ║
+║   Departure from: Iceland                                  ║
+║                                                            ║
+║   Destination: Nuuk, Greenland                             ║
+║                                                            ║
+║   Pilots                                                   ║
+║   Captain: Jónas Sigurðsson                                ║
+║   Copilot: Sigríður Gunnarsdóttir                          ║
+║                                                            ║
+║   Cabin crew service                                       ║
+║   Purser: Óttar Atli Guðnason                              ║
+║   Flight attendant: Kolbrún Hauksdóttir                    ║
+║                                                            ║
+║   Time of flight: 6:50                                     ║
+║     departure                                              ║
+║                                                            ║
+║   Time of attendance: 5:30                                 ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 
