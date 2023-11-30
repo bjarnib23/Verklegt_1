@@ -658,7 +658,7 @@ result from search:
 ║   Home address:  Akurás 23                  EDIT           ║
 ║                                                            ║
 ║                                                            ║
-║   Mobile phone: 879-2019                    EDIT           ║
+║   Mobile phone: 867-5455                     EDIT          ║
 ║                                                            ║
 ║                                                            ║
 ║   Home phone number: 599-6699               EDIT           ║
@@ -683,7 +683,7 @@ input 1 (home address):
 ║   Social security number: 240475-2380                      ║
 ║                                                            ║
 ║                                                            ║
-║   Home address:  Brekkuás 19                  EDIT         ║
+║   Home address:  Klettagata 3               EDIT           ║
 ║                                                            ║
 ║                                                            ║
 ║   Mobile phone: 879-2019                    EDIT           ║
