@@ -37,4 +37,6 @@ Planið fyrir daginn í dag:
 - setja wireframe upp í vs studios
 - halda áfram að setja upp hönnunarskýrsluna
 
-
+Skýrsla í lok dags:
+Við komumst langt með wirefram í vs studios.
+Uppsetningin á hönnunarskýrslunni gekk vel og erum við komin vel af stað með það.
