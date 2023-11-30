@@ -422,8 +422,8 @@ input Contact's emergency number:
  | .` / _` | .` | / _` | | '_|
  |_|\_\__,_|_|\_| \__,_|_|_|  
 ╔═══════════════════════════════════════════════════════════════╗
-║                    Welcome to the Menu!                       ║
-║                  Please select an option:                     ║
+║                   Register Employee                           ║
+║                                                               ║
 ║                                                               ║
 ║      Name:                                                    ║
 ║                                                               ║
@@ -447,8 +447,8 @@ input Name:
  | .` / _` | .` | / _` | | '_|
  |_|\_\__,_|_|\_| \__,_|_|_|                               
 ╔═══════════════════════════════════════════════════════════════╗
-║                    Welcome to the Menu!                       ║
-║                  Please select an option:                     ║
+║                    Register Employee                          ║
+║                                                               ║
 ║                                                               ║
 ║      Name: Jóna Gunnarsdóttir                                 ║
 ║                                                               ║
@@ -471,8 +471,8 @@ input Social Security Number:
  | .` / _` | .` | / _` | | '_|
  |_|\_\__,_|_|\_| \__,_|_|_|                               
 ╔═══════════════════════════════════════════════════════════════╗
-║                    Welcome to the Menu!                       ║
-║                  Please select an option:                     ║
+║                    Register Employee                          ║
+║                                                               ║
 ║                                                               ║
 ║      Name: Jóna Gunnarsdóttir                                 ║
 ║                                                               ║
@@ -496,8 +496,8 @@ input Home Address:
  | .` / _` | .` | / _` | | '_|
  |_|\_\__,_|_|\_| \__,_|_|_|                               
 ╔═══════════════════════════════════════════════════════════════╗
-║                    Welcome to the Menu!                       ║
-║                  Please select an option:                     ║
+║                    Register Employee                          ║
+║                                                               ║
 ║                                                               ║
 ║      Name: Jóna Gunnarsdóttir                                 ║
 ║                                                               ║
@@ -521,8 +521,8 @@ input Mobile Phone Number:
  | .` / _` | .` | / _` | | '_|
  |_|\_\__,_|_|\_| \__,_|_|_|                               
 ╔═══════════════════════════════════════════════════════════════╗
-║                    Welcome to the Menu!                       ║
-║                  Please select an option:                     ║
+║                    Register employee                          ║
+║                                                               ║
 ║                                                               ║
 ║      Name: Jóna Gunnarsdóttir                                 ║
 ║                                                               ║
