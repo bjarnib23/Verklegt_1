@@ -863,3 +863,116 @@ input time of attendance:
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 
+
+╔═══════════════════════════════════════════════════════════════╗
+║                     Register airplanes                        ║
+║                        for Nan air                            ║
+║                                                               ║
+║      Name of Airplane:                                        ║
+║                                                               ║
+║                                                               ║
+║      Type of Airplane:                                        ║
+║                                                               ║
+║                                                               ║
+║      Manufacturer of Airplane:                                ║
+║                                                               ║
+║                                                               ║
+║      Number of passenger seats:                               ║
+║                                                               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Name of Airplane
+
+╔═══════════════════════════════════════════════════════════════╗
+║                     Register airplanes                        ║
+║                        for Nan air                            ║
+║                                                               ║
+║      Name of Airplane: Aurora                                 ║
+║                                                               ║
+║                                                               ║
+║      Type of Airplane:                                        ║
+║                                                               ║
+║                                                               ║
+║      Manufacturer of Airplane:                                ║
+║                                                               ║
+║                                                               ║
+║      Number of passenger seats:                               ║
+║                                                               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Type of Airplane
+
+╔═══════════════════════════════════════════════════════════════╗
+║                     Register airplanes                        ║
+║                        for Nan air                            ║
+║                                                               ║
+║      Name of Airplane: Aurora                                 ║
+║                                                               ║
+║                                                               ║
+║      Type of Airplane: 757                                    ║
+║                                                               ║
+║                                                               ║
+║      Manufacturer of Airplane:                                ║
+║                                                               ║
+║                                                               ║
+║      Number of passenger seats:                               ║
+║                                                               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Manufacturer of Airplane
+
+╔═══════════════════════════════════════════════════════════════╗
+║                     Register airplanes                        ║
+║                        for Nan air                            ║
+║                                                               ║
+║      Name of Airplane: Aurora                                 ║
+║                                                               ║
+║                                                               ║
+║      Type of Airplane: 757                                    ║
+║                                                               ║
+║                                                               ║
+║      Manufacturer of Airplane: Boeing                         ║
+║                                                               ║
+║                                                               ║
+║      Number of passenger seats:                               ║
+║                                                               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Manufacturer of Airplane
+
+╔═══════════════════════════════════════════════════════════════╗
+║                     Register airplanes                        ║
+║                        for Nan air                            ║
+║                                                               ║
+║      Name of Airplane: Aurora                                 ║
+║                                                               ║
+║                                                               ║
+║      Type of Airplane: 757                                    ║
+║                                                               ║
+║                                                               ║
+║      Manufacturer of Airplane: Boeing                         ║
+║                                                               ║
+║                                                               ║
+║      Number of passenger seats:                               ║
+║                                                               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+input Number of passenger seats:
+
+╔═══════════════════════════════════════════════════════════════╗
+║                     Register airplanes                        ║
+║                        for Nan air                            ║
+║                                                               ║
+║      Name of Airplane: Aurora                                 ║
+║                                                               ║
+║                                                               ║
+║      Type of Airplane: 757                                    ║
+║                                                               ║
+║                                                               ║
+║      Manufacturer of Airplane: Boeing                         ║
+║                                                               ║
+║                                                               ║
+║      Number of passenger seats: 300                           ║
+║                                                               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
