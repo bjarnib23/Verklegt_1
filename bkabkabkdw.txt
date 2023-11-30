@@ -493,35 +493,160 @@ input Home Phone Number(optionl):
 ║                                                            ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
+input date: 
+input week:
 
+╔════════════════════════════════════════════════════════════╗
+║                      List of voyages                       ║
+║                                                            ║
+║  Enter date: 30.11.23                                      ║
+║  Enter week:                                               ║
+║                                                            ║
+║ Time   Date    Where to   Flight Duration    Fully staffed ║
+║                                                   YES/NO   ║                                                         ║
+║                                                            ║
+║                                                            ║  
+║                                                            ║
+║                                                            ║
+║                                                            ║
+║                                                            ║
+║                                                            ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════╗
+║                      List of voyages                       ║
+║                                                            ║
+║  Enter date:                                               ║
+║  Enter week: 3.12.23 - 9.12.23                             ║
+║                                                            ║
+║ Time   Date    Where to   Flight Duration    Fully staffed ║
+║                                                   YES/NO   ║                                                         ║
+║                                                            ║
+║                                                            ║  
+║                                                            ║
+║                                                            ║
+║                                                            ║
+║                                                            ║
+║                                                            ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════╗
 ║                  Look up information:                      ║
 ║                                                            ║
 ║    Search employee:                                        ║
-║    _________________                                       ║
-║    _________________                                       ║
+║    -------------------                                     ║
 ║                                                            ║
+║    -------------------                                     ║
 ╚════════════════════════════════════════════════════════════╝
+input employee:
 
+╔════════════════════════════════════════════════════════════╗
+║                  Look up information:                      ║
+║                                                            ║
+║    Search employee:                                        ║
+║    -------------------                                     ║
+║    Jóna Jóhannesdóttir                                     ║
+║    -------------------                                     ║
+╚════════════════════════════════════════════════════════════╝
 
 result from search: 
 
 ╔════════════════════════════════════════════════════════════╗
 ║                    Employee                                ║
+║  Edit:                                                     ║
+║    1. home address                                         ║
+║    2. mobile phone                                         ║
+║    3. home phone number                                    ║
 ║                                                            ║
-║   Name:                                                    ║
-║                                                            ║
-║                                                            ║
-║   Social security number:                                  ║
-║                                                            ║
-║                                                            ║
-║   Home address:                     EDIT                   ║
+║   Name: Jóna Gunnarsdóttir                                 ║
 ║                                                            ║
 ║                                                            ║
-║   Mobile phone:                     EDIT                   ║
+║   Social security number: 240475-2380                      ║
 ║                                                            ║
 ║                                                            ║
-║   Home phone number:                EDIT                   ║
+║   Home address:  Akurás 23                  EDIT           ║
+║                                                            ║
+║                                                            ║
+║   Mobile phone: 879-2019                    EDIT           ║
+║                                                            ║
+║                                                            ║
+║   Home phone number: 599-6699               EDIT           ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
+input 1 (home address)
+
+╔════════════════════════════════════════════════════════════╗
+║                    Employee                                ║
+║  Edit:                                                     ║
+║    1. home address                                         ║
+║    2. mobile phone                                         ║
+║    3. home phone number                                    ║
+║                                                            ║
+║   Name: Jóna Gunnarsdóttir                                 ║
+║                                                            ║
+║                                                            ║
+║   Social security number: 240475-2380                      ║
+║                                                            ║
+║                                                            ║
+║   Home address:  Brekkuás 19                  EDIT         ║
+║                                                            ║
+║                                                            ║
+║   Mobile phone: 879-2019                    EDIT           ║
+║                                                            ║
+║                                                            ║
+║   Home phone number: 599-6699               EDIT           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input 2 (mobile phone)
+
+╔════════════════════════════════════════════════════════════╗
+║                    Employee                                ║
+║  Edit:                                                     ║
+║    1. home address                                         ║
+║    2. mobile phone                                         ║
+║    3. home phone number                                    ║
+║                                                            ║
+║   Name: Jóna Gunnarsdóttir                                 ║
+║                                                            ║
+║                                                            ║
+║   Social security number: 240475-2380                      ║
+║                                                            ║
+║                                                            ║
+║   Home address:  Brekkuás 19                  EDIT         ║
+║                                                            ║
+║                                                            ║
+║   Mobile phone: 798-2340                    EDIT           ║
+║                                                            ║
+║                                                            ║
+║   Home phone number: 599-6699               EDIT           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
+input 3 (home phone number)
+
+╔════════════════════════════════════════════════════════════╗
+║                    Employee                                ║
+║  Edit:                                                     ║
+║    1. home address                                         ║
+║    2. mobile phone                                         ║
+║    3. home phone number                                    ║
+║                                                            ║
+║   Name: Jóna Gunnarsdóttir                                 ║
+║                                                            ║
+║                                                            ║
+║   Social security number: 240475-2380                      ║
+║                                                            ║
+║                                                            ║
+║   Home address:  Brekkuás 19                  EDIT         ║
+║                                                            ║
+║                                                            ║
+║   Mobile phone: 798-2340                    EDIT           ║
+║                                                            ║
+║                                                            ║
+║   Home phone number: 559-5890               EDIT           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+
