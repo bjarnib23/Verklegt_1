@@ -49,4 +49,19 @@ Planið fyrir daginn í dag:
 - setja upp git handbókina í word
 - reyna klára uppsetningu á hönnunarskýrslu
 
+Skýrsla í loks dags:
+Allir unnu vel í verkefninu og gerðu sinn hlut.
+Við kláruðum wireframe í vs studios og settum upp happy path
+Lögðum lokahönd á git handbókina og kláruðum hana. 
+Word skjalið okkar er næstum tilbúið. 
+Erum búin að skrifa inngang og lokaorð
 
+01.12.23
+
+Plan fyrir daginn:
+- Klára fara yfir
+- setja lokahönd á hönnunarskýrsluna
+- skila hönnunarskýrslu
+
+Skýrsla í lok dags:
+- skiluðum hönnunarskýrslu
