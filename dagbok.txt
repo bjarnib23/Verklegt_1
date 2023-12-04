@@ -65,3 +65,15 @@ Plan fyrir daginn:
 
 Skýrsla í lok dags:
 - skiluðum hönnunarskýrslu
+
+04.12.23
+
+Plan fyrir daginn:
+- horfa á fyrirlestur um uppsetningu og kóðadæmi í python
+- panta tíma með leiðbandanda til þess að fara yfir endurgjöf
+- lesa yfir endurgjöf 
+- byrja að skipta upp verkum fyrir forritunan, hver ætlar að gera hvað.
+- reyna byrja að kóða
+
+
+
